@@ -1,0 +1,25 @@
+{
+  "name": "with-a-little-mikan",
+  "displayName": "With A Little Mikan",
+  "description": "Let's work with a touch of mikan!",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikanslice/with-a-little-mikan.git"
+  },
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "With A Little Mikan",
+        "uiTheme": "vs",
+        "path": "./themes/walm-color-theme.json"
+      }
+    ]
+  }
+}

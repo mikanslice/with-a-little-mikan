@@ -1,0 +1,40 @@
+{
+	"name": "With A Little Mikan",
+	"type": "light",
+	"colors": {
+		//一番上のバー
+		"titleBar.activeBackground": "#ffdcba",
+		"titleBar.activeForeground": "#696969",
+		//一番下のバー
+		"statusBar.background": "#ffb972",
+		"statusBar.foreground": "#414141",
+		"statusBar.noFolderBackground": "#fffd8c",
+		"statusBar.noFolderForeground": "#414141",
+		"statusBar.debuggingBackground": "#a1d65b",
+		"statusBar.debuggingForeground": "#303030",
+		// 一番左のバー
+		"activityBar.background": "#f4d7a6",
+		"activityBar.foreground": "#3a3a3a",
+		"activityBar.inactiveForeground": "#7a7a7a",
+		"activityBar.activeBackground": "#e2c08f",
+		"activityBar.activeBorder": "#ff7b00",
+		"activityBarBadge.background": "#ff8800",
+		"activityBarBadge.foreground": "#ffffff",
+		//サイドバー
+		"sideBar.background": "#fff1e1",
+		"sideBar.foreground": "#666666",
+		"sideBarTitle.foreground": "#303030",
+		"list.hoverBackground": "#ffe0b8",
+		"list.activeSelectionBackground": "#ffeea2",
+		"list.activeSelectionForeground": "#333333",
+		"list.inactiveSelectionBackground": "#ddb7a1",
+		"button.background": "#e07e0d",
+		"button.foreground": "#ffffff",
+		"button.hoverBackground": "#bb7111",
+		"input.background": "#ffffff",
+		"input.foreground": "#4b4b4b",
+		"input.placeholderForeground": "#999999",
+		"focusBorder": "#00000000"
+	} /*,
+	"tokenColors": []*/
+}
