@@ -2,6 +2,8 @@
 	"name": "With A Little Mikan",
 	"type": "light",
 	"colors": {
+		//選択枠
+		"focusBorder": "#ff9101",
 		//一番上のバー
 		"titleBar.activeBackground": "#ffdcba",
 		"titleBar.activeForeground": "#696969",
@@ -34,7 +36,14 @@
 		"input.background": "#ffffff",
 		"input.foreground": "#4b4b4b",
 		"input.placeholderForeground": "#999999",
-		"focusBorder": "#00000000"
-	} /*,
-	"tokenColors": []*/
+		//セクションヘッダ
+		"sideBarSectionHeader.background": "#ffe2bc",
+		"sideBarSectionHeader.foreground": "#444444",
+		//タブ
+		"editorGroupHeader.tabsBackground": "#fcf3eb",
+		"tab.activeBackground": "#ffffff",
+		"tab.activeForeground": "#333333",
+		"tab.inactiveBackground": "#ece0d1",
+		"tab.inactiveForeground": "#888888",
+	}
 }
