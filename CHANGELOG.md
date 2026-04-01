@@ -12,3 +12,8 @@
 - Updated focus border and tab colors
 - Corrected version label in previous changelog (0.0.1 → 0.1.0)
 - Verified on VS Code 1.113.0
+
+## 0.1.2 - 2026-04-01
+
+- Added token colors for syntax highlighting (keywords, strings, variables)
+- Verified on VS Code 1.113.0
